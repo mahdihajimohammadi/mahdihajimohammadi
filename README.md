@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahdihajimohammadi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdihajimohammadi&theme=github-compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihajimohammadi&layout=compact&langs_count=11&count_private=true&theme=dracula&hide=Makefile,cmake)
+
