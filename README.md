@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdihajimohammadi&theme=github-compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihajimohammadi&layout=compact&langs_count=11&count_private=true&theme=dracula&hide=Makefile,cmake)
-
