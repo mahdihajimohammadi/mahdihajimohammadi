@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdihajimohammadi&theme=github-compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdihajimohammadi&show_icons=true&count_private=true&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahdihajimohammadi&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
